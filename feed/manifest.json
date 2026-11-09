@@ -1,9 +1,9 @@
 {
  "format": 1,
- "version": "2026-11-08T21:35:01Z",
- "file": "community-2e70ad922185f0a4.json.gz",
- "sha256": "2e70ad922185f0a43562befa8f24d0b0faa582cabf953ca76e36af66cb33ac02",
- "bytes": 188101,
- "content": "f9a370b1c2ca3d83696dcfee4f3a07757b5030f93e5649529add993cf3a2e1f3",
- "notes": 298
+ "version": "2026-11-09T12:35:01Z",
+ "file": "community-1075de20927ce13c.json.gz",
+ "sha256": "1075de20927ce13c56f8d602e9c908cf924c538ea287a446b83393acd371fcef",
+ "bytes": 195431,
+ "content": "a1383afc0d01d66d4ec74db09eea3d407c5fb5850d5edb99c33af2577732c8fc",
+ "notes": 305
 }
